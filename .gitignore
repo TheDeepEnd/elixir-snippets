@@ -71,3 +71,4 @@ $RECYCLE.BIN/
 /deps
 erl_crash.dump
 *.ez
+*.beam
