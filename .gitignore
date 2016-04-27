@@ -72,3 +72,4 @@ $RECYCLE.BIN/
 erl_crash.dump
 *.ez
 *.beam
+*.swp
